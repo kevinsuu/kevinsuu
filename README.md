@@ -24,7 +24,7 @@
 ### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,react,nodejs,php,codeigniter,mysql,java,unity,csharp,git,github,vscode,eclipse,netbeans&perline=8" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,go,postgres,firebase,mongodb,redis,websocket,docker,react,github,git,aws,gcp&perline=8" alt="Tech Stack" />
 </p>
 
 ---
@@ -37,36 +37,21 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinsuu&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
 
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kevinsuu&theme=onedark&row=1&column=6" alt="Trophies"/>
-</p>
-
----
-
-### 🐍 GitHub Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kevinsuu/kevinsuu/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-</p>
 
 ---
 ## 🚀 Notable Projects
 
-### 🔸 [BI Report System](https://github.com/kevinsuu/OrderManagerSystem)
-> 客戶數據分析平台，提供業務與績效統計報表
+### 🔸 [OrderManagerSystem](https://github.com/kevinsuu/OrderManagerSystem)
+> 採用微服務架構的電子商務訂單管理平台，整合訂單、商品、金流、通知等模組，並使用 Prometheus、Grafana 與 ELK 進行監控與日誌分析。
 
-### 🔸 [AI 合約生成應用](https://github.com/kevinsuu/e-card)
-> 串接 OpenAI API，快速生成合約範本與格式
+### 🔸 [RecordSysten](https://github.com/kevinsuu/RecordSysten)
+> 管理水泥車清洗紀錄的桌面應用程式，支援多公司與車輛資訊管理，採用深色介面風格並使用本地 JSON 儲存資料，免安裝資料庫。
 
-### 🔸 [工單廣播系統](https://github.com/kevinsuu/WORKTIME_boardcast)
-> 樹莓派多螢幕工廠即時資訊看板系統
+### 🔸 [WORKTIME_boardcast](https://github.com/kevinsuu/WORKTIME_boardcast)
+> 工單廣播系統，結合樹莓派與多螢幕展示工廠即時資訊，提升生產透明度與工作效率。
 
-### 🔸 [電子商務訂單平台](https://github.com/kevinsuu/OrderManagerSystem)
-> 採用微服務架構，處理訂單、金流、庫存與通知等模組
+### 🔸 [WORKTIME2](https://github.com/kevinsuu/WORKTIME2)
+> 報工系統的重構版本，使用 React.js 和 Express.js 開發，支援製令單報工、產線計時與報表匯出，並以 Docker 容器化部署。rderManagerSystem)
 
 ---
 
