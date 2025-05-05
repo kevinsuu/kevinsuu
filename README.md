@@ -55,10 +55,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  ![Kevunsuu's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinsuu&show_icons=true&theme=radical)
+  <img src="https://github-readme-stats.vercel.app/api?username=kevinsuu&show_icons=true&theme=radical" alt="Kevunsuu's GitHub stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinsuu&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
-
 
 ---
 ## 🚀 Notable Projects
