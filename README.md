@@ -21,25 +21,39 @@
 
 ---
 
-## 🛠️ Tech Stack
+### 🧰 Tech Stack
 
-**Languages**  
-`Node.js` `TypeScript` `Python` `Golang`
-
-**Frameworks**  
-`Express.js` `Gin` `Flask` `React.js`
-
-**Databases**  
-`PostgreSQL` `MongoDB` `Redis`
-
-**DevOps**  
-`Docker` `GCP` `AWS` `CI/CD` `PM2`
-
-**Others**  
-`Microservice` `WebSocket` `Swagger` `Line Bot` `OpenAI API` `Shell Script`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,react,nodejs,php,codeigniter,mysql,java,unity,csharp,git,github,vscode,eclipse,netbeans&perline=8" alt="Tech Stack"/>
+</p>
 
 ---
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kevinsuu&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinsuu&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kevinsuu&theme=onedark&row=1&column=6" alt="Trophies"/>
+</p>
+
+---
+
+### 🐍 GitHub Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kevinsuu/kevinsuu/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+</p>
+
+---
 ## 🚀 Notable Projects
 
 ### 🔸 [BI Report System](https://github.com/kevinsuu/OrderManagerSystem)
