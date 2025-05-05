@@ -34,10 +34,10 @@
   <img src="https://skillicons.dev/icons?i=firebase" height="20"/> Firebase &nbsp;
   <img src="https://skillicons.dev/icons?i=mongodb" height="20"/> MongoDB &nbsp;
   <img src="https://skillicons.dev/icons?i=redis" height="20"/> Redis &nbsp;
+  ☁️ Render Web Service&nbsp;
   🔌 WebSocket &nbsp;
   🧩 Microservice &nbsp;
   ⚙️ PM2 &nbsp;
-  ☁️ Render &nbsp;
   💳 TapPay &nbsp;
   <img src="https://skillicons.dev/icons?i=jest" height="20"/> Jest &nbsp;
   <img src="https://skillicons.dev/icons?i=aws" height="20"/> AWS &nbsp;
@@ -60,16 +60,16 @@
 ## 🚀 Notable Projects
 
 ### 🔸 [OrderManagerSystem](https://github.com/kevinsuu/OrderManagerSystem)
-> 採用微服務架構的電子商務訂單管理平台，整合訂單、商品、金流、通知等模組，並使用 Prometheus、Grafana 與 ELK 進行監控與日誌分析。
+> 採用微服務架構的電子商務訂單管理平台，整合訂單、商品、金流、通知等模組。
 
 ### 🔸 [RecordSysten](https://github.com/kevinsuu/RecordSysten)
-> 管理水泥車清洗紀錄的桌面應用程式，支援多公司與車輛資訊管理，採用深色介面風格並使用本地 JSON 儲存資料，免安裝資料庫。
+> 管理水泥車清洗紀錄的桌面應用程式，支援多公司與車輛資訊管理，採用免費服務相關進行服務提供。
 
 ### 🔸 [WORKTIME_boardcast](https://github.com/kevinsuu/WORKTIME_boardcast)
 > 工單廣播系統，結合樹莓派與多螢幕展示工廠即時資訊，提升生產透明度與工作效率。
 
 ### 🔸 [WORKTIME2](https://github.com/kevinsuu/WORKTIME2)
-> 報工系統的重構版本，使用 React.js 和 Express.js 開發，支援製令單報工、產線計時與報表匯出，並以 Docker 容器化部署。rderManagerSystem)
+> 報工系統的重構版本，使用 React.js 和 Express.js 開發，支援製令單報工、產線計時與報表匯出，並以 Docker 容器化部署。)
 
 ---
 
