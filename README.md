@@ -21,10 +21,30 @@
 
 ---
 
-### 🧰 Tech Stack
+### 🛠 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,go,postgres,firebase,mongodb,redis,websocket,docker,react,github,git,aws,gcp&perline=8" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="20"/> Node.js &nbsp;
+  <img src="https://skillicons.dev/icons?i=express" height="20"/> Express.js &nbsp;
+  <img src="https://skillicons.dev/icons?i=python" height="20"/> Python &nbsp;
+  <img src="https://skillicons.dev/icons?i=flask" height="20"/> Flask &nbsp;
+  <img src="https://skillicons.dev/icons?i=go" height="20"/> Golang &nbsp;
+  🌀 Gin &nbsp;
+  <img src="https://skillicons.dev/icons?i=postgres" height="20"/> PostgreSQL &nbsp;
+  <img src="https://skillicons.dev/icons?i=firebase" height="20"/> Firebase &nbsp;
+  <img src="https://skillicons.dev/icons?i=mongodb" height="20"/> MongoDB &nbsp;
+  <img src="https://skillicons.dev/icons?i=redis" height="20"/> Redis &nbsp;
+  🔌 WebSocket &nbsp;
+  🧩 Microservice &nbsp;
+  ⚙️ PM2 &nbsp;
+  ☁️ Render &nbsp;
+  💳 TapPay &nbsp;
+  <img src="https://skillicons.dev/icons?i=jest" height="20"/> Jest &nbsp;
+  <img src="https://skillicons.dev/icons?i=aws" height="20"/> AWS &nbsp;
+  <img src="https://skillicons.dev/icons?i=gcp" height="20"/> GCP &nbsp;
+  <img src="https://skillicons.dev/icons?i=docker" height="20"/> Docker &nbsp;
+  <img src="https://skillicons.dev/icons?i=react" height="20"/> React &nbsp;
+  🎨 MUI
 </p>
 
 ---
@@ -32,8 +52,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kevinsuu&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats"/>
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinsuu&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
 
