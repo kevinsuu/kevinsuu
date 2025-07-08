@@ -16,7 +16,7 @@
 
 ## 💻 About Me
 
-- 🔧 Backend Developer with 2+ years of experience.
+- 🔧 Backend Developer with 3+ years of experience.
 - 🧩 Skilled in system design from 0 → 1, database schema planning, and REST API development.
 - ☁️ Experienced with GCP & AWS deployment, Docker containerization, CI/CD pipelines.
 - 🤝 Cross-functional communicator: proactively clarifies requirements and builds scalable solutions.
@@ -47,6 +47,7 @@
   <img src="https://skillicons.dev/icons?i=gcp" height="20"/> GCP &nbsp;
   <img src="https://skillicons.dev/icons?i=docker" height="20"/> Docker &nbsp;
   <img src="https://skillicons.dev/icons?i=react" height="20"/> React &nbsp;
+  <img src="https://skillicons.dev/icons?i=vure" height="20"/> Vue &nbsp;
   🎨 MUI
 </p>
 
