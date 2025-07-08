@@ -47,7 +47,6 @@
   <img src="https://skillicons.dev/icons?i=gcp" height="20"/> GCP &nbsp;
   <img src="https://skillicons.dev/icons?i=docker" height="20"/> Docker &nbsp;
   <img src="https://skillicons.dev/icons?i=react" height="20"/> React &nbsp;
-  <img src="https://skillicons.dev/icons?i=vure" height="20"/> Vue &nbsp;
   🎨 MUI
 </p>
 
