@@ -1,53 +1,51 @@
 <h1 align="center">Hi, I'm Kevin Su 👋</h1>
 
 <p align="center">
-  A backend engineer who enjoys building reliable systems and solving real-world problems with code.
+  A backend-focused engineer who enjoys building reliable systems and turning ideas into production-ready products.
 </p>
 
 <p align="center">
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <a href="mailto:sjs47311@gmail.com"><img src="https://img.shields.io/badge/email-sjs47311@gmail.com-blue?style=flat-square&logo=gmail"></a>
+  <a href="mailto:sjs47311@gmail.com">
+    <img src="https://img.shields.io/badge/email-sjs47311@gmail.com-blue?style=flat-square&logo=gmail">
+  </a>
+  <a href="https://github.com/kevinsuu">
+    <img src="https://img.shields.io/badge/GitHub-kevinsuu-black?style=flat-square&logo=github">
+  </a>
 </p>
 
 ---
 
 ## 💻 About Me
 
-- 🔧 Backend Developer with 3+ years of experience.
-- 🧩 Skilled in system design from 0 → 1, database schema planning, and REST API development.
-- ☁️ Experienced with GCP & AWS deployment, Docker containerization, CI/CD pipelines.
-- 🤝 Cross-functional communicator: proactively clarifies requirements and builds scalable solutions.
-- 🧠 Loves learning new technologies and building meaningful projects in spare time.
+- 🔧 Backend-focused Full-stack Engineer with 3+ years of experience.
+- 🧩 Experienced in system design from **0 → 1**, database architecture, and API development.
+- 🚀 Comfortable taking products from requirement analysis to production deployment.
+- ☁️ Experienced with AWS, GCP, Docker, and CI/CD pipelines.
+- 🧠 Interested in scalable systems, performance optimization, AI, and building real-world products.
 
 ---
 
 ### 🛠 Tech Stack & Tools
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="20"/> TypeScript &nbsp;
   <img src="https://skillicons.dev/icons?i=nodejs" height="20"/> Node.js &nbsp;
   <img src="https://skillicons.dev/icons?i=express" height="20"/> Express.js &nbsp;
-  <img src="https://skillicons.dev/icons?i=python" height="20"/> Python &nbsp;
-  <img src="https://skillicons.dev/icons?i=flask" height="20"/> Flask &nbsp;
   <img src="https://skillicons.dev/icons?i=go" height="20"/> Golang &nbsp;
   🌀 Gin &nbsp;
+  <img src="https://skillicons.dev/icons?i=python" height="20"/> Python &nbsp;
   <img src="https://skillicons.dev/icons?i=postgres" height="20"/> PostgreSQL &nbsp;
-  <img src="https://skillicons.dev/icons?i=firebase" height="20"/> Firebase &nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql" height="20"/> MySQL &nbsp;
   <img src="https://skillicons.dev/icons?i=mongodb" height="20"/> MongoDB &nbsp;
   <img src="https://skillicons.dev/icons?i=redis" height="20"/> Redis &nbsp;
-  ☁️ Render Web Service&nbsp;
   🔌 WebSocket &nbsp;
   🧩 Microservice &nbsp;
-  ⚙️ PM2 &nbsp;
   💳 TapPay &nbsp;
-  <img src="https://skillicons.dev/icons?i=jest" height="20"/> Jest &nbsp;
+  <img src="https://skillicons.dev/icons?i=docker" height="20"/> Docker &nbsp;
   <img src="https://skillicons.dev/icons?i=aws" height="20"/> AWS &nbsp;
   <img src="https://skillicons.dev/icons?i=gcp" height="20"/> GCP &nbsp;
-  <img src="https://skillicons.dev/icons?i=docker" height="20"/> Docker &nbsp;
   <img src="https://skillicons.dev/icons?i=react" height="20"/> React &nbsp;
-  🎨 MUI
+  <img src="https://skillicons.dev/icons?i=vue" height="20"/> Vue / Nuxt
 </p>
 
 ---
@@ -55,30 +53,30 @@
 ## 🚀 Notable Projects
 
 ### 🔸 [OrderManagerSystem](https://github.com/kevinsuu/OrderManagerSystem)
-> 採用微服務架構的電子商務訂單管理平台，整合訂單、商品、金流、通知等模組。
+> 採用微服務架構的電子商務訂單管理平台，整合訂單、商品、認證、金流與通知服務，使用 Go、gRPC、PostgreSQL、Redis、Docker 與 Kubernetes 建構。
 
-### 🔸 [RecordSysten](https://github.com/kevinsuu/RecordSysten)
-> 管理水泥車清洗紀錄的桌面應用程式，支援多公司與車輛資訊管理，採用免費服務相關進行服務提供。
-
-### 🔸 [WORKTIME_boardcast](https://github.com/kevinsuu/WORKTIME_boardcast)
-> 工單廣播系統，結合樹莓派與多螢幕展示工廠即時資訊，提升生產透明度與工作效率。
+### 🔸 [Anime](https://github.com/kevinsuu/anime)
+> 全端動漫追蹤與收藏平台，整合 Google OAuth、JWT、個人收藏與自動化動漫資料同步，並透過 Docker 與 GitHub Actions 完成部署流程。
 
 ### 🔸 [WORKTIME2](https://github.com/kevinsuu/WORKTIME2)
-> 報工系統的重構版本，使用 React.js 和 Express.js 開發，支援製令單報工、產線計時與報表匯出，並以 Docker 容器化部署。)
+> 實際應用於製造業的報工系統，支援製令單報工、產線計時、進度管理與報表匯出，並使用 Docker 容器化部署。
+
+### 🔸 [RecordSysten](https://github.com/kevinsuu/RecordSysten)
+> 為實際業務需求開發的水泥車清洗紀錄管理系統，支援多公司、車輛與清洗紀錄管理。
 
 ---
 
 ## 📈 Experience
 
 ### 🔹 Backend Engineer - 資通行動科技有限公司 (2024/05 - Now)
-- 建置 LINE BOT 與 TapPay 金流整合，服務多家車隊
-- 透過 Cloud Function 實現 microservice 架構
-- MongoDB 資料清除機制與 SQL 效能優化（提升 97.5%）
-- 建置 GitLab CI/CD 自動部署流程
+- 建置 LINE Bot 與 TapPay 金流整合，應用於實際商業服務
+- 使用 Cloud Functions 建構服務與 microservice 架構
+- MongoDB 資料生命週期管理與 SQL 效能優化，最高提升 **97.5%**
+- 建置 GitLab CI/CD 自動化部署流程
 
 ### 🔹 Backend Engineer - Kdan Mobile (2022/10 - 2024/05)
-- 開發與維護多項專案，從需求釐清到系統落地
-- 撰寫內部績效系統，支援 200+ 員工使用
+- 參與多項產品開發，從需求釐清、系統設計到正式上線
+- 開發內部績效管理系統，支援 **200+ 員工**
 - 與 AI 工程師合作串接 OpenAI，打造企業資訊助理
 
 ---
@@ -99,7 +97,5 @@ B.S. in Computer Science (2017 - 2021)
 ---
 
 <p align="center">
-  Let's build the future with code 💡
+  <strong>From idea → architecture → production.</strong>
 </p>
-
-這是我的github 幫我將它調整的更吸引人 點進來就會覺得這個工程師有料的部分
