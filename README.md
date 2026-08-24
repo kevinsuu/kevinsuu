@@ -2,23 +2,12 @@
 
 <p align="center">
   <strong>Backend-focused Full-stack Engineer</strong><br/>
-  Building reliable systems from architecture and database design to production deployment.
-</p>
-
-<p align="center">
-  <code>TypeScript</code> ·
-  <code>Node.js</code> ·
-  <code>Go</code> ·
-  <code>PostgreSQL</code> ·
-  <code>Redis</code> ·
-  <code>Docker</code> ·
-  <code>AWS</code> ·
-  <code>GCP</code>
+  Building reliable systems from architecture to production.
 </p>
 
 <p align="center">
   <a href="mailto:sjs47311@gmail.com">
-    <img src="https://img.shields.io/badge/Email-sjs47311%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/kevinsuu">
     <img src="https://img.shields.io/badge/GitHub-kevinsuu-181717?style=flat-square&logo=github"/>
@@ -27,96 +16,103 @@
 
 ---
 
-## 💻 About Me
+## About Me
 
-I'm a software engineer focused on **backend architecture, system design, and production-ready application development**.
+Backend-focused engineer with **3+ years of experience** building production systems.
 
-I enjoy taking products from **0 → 1** — from requirement clarification and database schema design to API development, infrastructure, CI/CD, and production deployment.
+I enjoy taking products from **0 → 1**, covering system design, database architecture, API development, CI/CD, and cloud deployment.
 
-My engineering experience includes:
-
-- Designing and developing **REST APIs and microservice architectures**
-- Building backend services with **TypeScript / Node.js and Go**
-- Designing and optimizing **PostgreSQL, MongoDB, and Redis**
-- Building production systems involving **payments, LINE Bot, WebSocket, and AI**
-- Deploying applications with **Docker, AWS, and GCP**
-- Building automated **CI/CD pipelines**
-- Debugging performance bottlenecks and improving system reliability
-- Working across backend, frontend, infrastructure, and product requirements
-
-> I care about maintainability, clear architecture, strong typing, database performance, and solving the actual business problem — not just making the code work.
+- 🚀 Improved SQL performance by **up to 97.5%**
+- 👥 Built internal systems serving **200+ employees**
+- 💳 Experience with **payment, LINE Bot, AI, and real-time systems**
+- ☁️ Production experience with **AWS, GCP, Docker, and CI/CD**
 
 ---
 
-## ⚡ Engineering Highlights
+## Tech Stack
 
-- 🚀 Improved SQL-related performance by **up to 97.5%**
-- 👥 Built an internal performance management system used by **200+ employees**
-- 💳 Integrated **TapPay payment flows** into real-world production systems
-- 💬 Built and maintained **LINE Bot backend services**
-- ☁️ Designed cloud services using **Google Cloud Functions**
-- 🔄 Built automated deployment pipelines with **GitLab CI/CD**
-- 🏗️ Experienced in taking systems from **requirement → architecture → production**
+**Backend**  
+`TypeScript` · `Node.js` · `Express` · `Go` · `Gin` · `Python`
 
----
+**Data**  
+`PostgreSQL` · `MongoDB` · `MySQL` · `Redis`
 
-## 🛠 Tech Stack
+**Infrastructure**  
+`Docker` · `Kubernetes` · `AWS` · `GCP` · `GitHub Actions` · `GitLab CI/CD`
 
-### Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,express,go,python" />
-</p>
-
-`TypeScript` · `Node.js` · `Express.js` · `Go` · `Gin` · `Python` · `REST API` · `gRPC` · `WebSocket`
-
-### Database & Infrastructure
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,nginx" />
-</p>
-
-`PostgreSQL` · `MongoDB` · `Redis` · `Docker` · `Nginx`
-
-### Cloud & DevOps
-
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,github,gitlab" />
-</p>
-
-`AWS` · `GCP` · `GitHub Actions` · `GitLab CI/CD` · `Cloud Functions`
-
-### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue" />
-</p>
-
-`React` · `Next.js` · `Vue` · `Nuxt` · `MUI`
+**Frontend**  
+`React` · `Next.js` · `Vue` · `Nuxt`
 
 ---
 
-# 🚀 Selected Projects
+## Selected Projects
 
-## 🔸 Order Management System
+### 🚀 [Order Management System](https://github.com/kevinsuu/OrderManagerSystem)
 
-### [kevinsuu/OrderManagerSystem](https://github.com/kevinsuu/OrderManagerSystem)
+Microservice-based order management platform focused on scalable backend architecture.
 
-A production-oriented **microservice-based order management system** designed around scalable backend architecture.
+`Go` · `Gin` · `gRPC` · `PostgreSQL` · `Redis` · `Docker` · `Kubernetes`
 
-### Architecture
+- API Gateway + domain-based microservices
+- REST / gRPC communication
+- Authentication & Redis caching
+- CI/CD, monitoring, and containerized deployment
 
-```text
-Client
-  │
-  ▼
-API Gateway
-  │
-  ├── Auth Service
-  ├── Product Service
-  ├── Order Service
-  ├── Payment Service
-  └── Notification Service
-         │
-         ▼
- PostgreSQL / Redis
+---
+
+### 🎬 [Anime Library](https://github.com/kevinsuu/anime)
+
+Full-stack anime tracking and discovery platform with automated data synchronization.
+
+`Nuxt` · `Vue` · `Laravel` · `MySQL` · `Docker`
+
+- Google OAuth + JWT authentication
+- Automated anime metadata crawler
+- Watchlists, ratings, notes, and collections
+- Docker + GitHub Actions deployment
+
+---
+
+### 🏭 [WORKTIME2](https://github.com/kevinsuu/WORKTIME2)
+
+Manufacturing work-reporting platform built for real production workflows.
+
+`React` · `Node.js` · `Express` · `Docker`
+
+- Manufacturing order reporting
+- Production line tracking
+- Report generation
+- Containerized deployment
+
+---
+
+## Experience
+
+### Backend Engineer · 資通行動科技
+`2024.05 — Present`
+
+LINE Bot · TapPay · Cloud Functions · SQL Optimization · MongoDB · GitLab CI/CD
+
+### Backend Engineer · Kdan Mobile
+`2022.10 — 2024.05`
+
+Production systems · Internal platform for 200+ employees · OpenAI integration
+
+---
+
+## Education
+
+**Southern Taiwan University of Science and Technology**
+
+M.S. Computer Science · 2021–2022  
+B.S. Computer Science · 2017–2021
+
+---
+
+<p align="center">
+  <strong>From idea → architecture → production.</strong>
+</p>
+
+<p align="center">
+  System Design · Backend · Database · Cloud · DevOps
+</p>
