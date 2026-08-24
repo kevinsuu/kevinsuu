@@ -1,118 +1,105 @@
 <h1 align="center">Hi, I'm Kevin Su 👋</h1>
 
 <p align="center">
-  <strong>Backend-focused Full-stack Engineer</strong><br/>
-  Building reliable systems from architecture to production.
+  A backend engineer who enjoys building reliable systems and solving real-world problems with code.
 </p>
 
 <p align="center">
-  <a href="mailto:sjs47311@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/kevinsuu">
-    <img src="https://img.shields.io/badge/GitHub-kevinsuu-181717?style=flat-square&logo=github"/>
-  </a>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <a href="mailto:sjs47311@gmail.com"><img src="https://img.shields.io/badge/email-sjs47311@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ---
 
-## About Me
+## 💻 About Me
 
-Backend-focused engineer with **3+ years of experience** building production systems.
-
-I enjoy taking products from **0 → 1**, covering system design, database architecture, API development, CI/CD, and cloud deployment.
-
-- 🚀 Improved SQL performance by **up to 97.5%**
-- 👥 Built internal systems serving **200+ employees**
-- 💳 Experience with **payment, LINE Bot, AI, and real-time systems**
-- ☁️ Production experience with **AWS, GCP, Docker, and CI/CD**
+- 🔧 Backend Developer with 3+ years of experience.
+- 🧩 Skilled in system design from 0 → 1, database schema planning, and REST API development.
+- ☁️ Experienced with GCP & AWS deployment, Docker containerization, CI/CD pipelines.
+- 🤝 Cross-functional communicator: proactively clarifies requirements and builds scalable solutions.
+- 🧠 Loves learning new technologies and building meaningful projects in spare time.
 
 ---
 
-## Tech Stack
+### 🛠 Tech Stack & Tools
 
-**Backend**  
-`TypeScript` · `Node.js` · `Express` · `Go` · `Gin` · `Python`
-
-**Data**  
-`PostgreSQL` · `MongoDB` · `MySQL` · `Redis`
-
-**Infrastructure**  
-`Docker` · `Kubernetes` · `AWS` · `GCP` · `GitHub Actions` · `GitLab CI/CD`
-
-**Frontend**  
-`React` · `Next.js` · `Vue` · `Nuxt`
-
----
-
-## Selected Projects
-
-### 🚀 [Order Management System](https://github.com/kevinsuu/OrderManagerSystem)
-
-Microservice-based order management platform focused on scalable backend architecture.
-
-`Go` · `Gin` · `gRPC` · `PostgreSQL` · `Redis` · `Docker` · `Kubernetes`
-
-- API Gateway + domain-based microservices
-- REST / gRPC communication
-- Authentication & Redis caching
-- CI/CD, monitoring, and containerized deployment
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs" height="20"/> Node.js &nbsp;
+  <img src="https://skillicons.dev/icons?i=express" height="20"/> Express.js &nbsp;
+  <img src="https://skillicons.dev/icons?i=python" height="20"/> Python &nbsp;
+  <img src="https://skillicons.dev/icons?i=flask" height="20"/> Flask &nbsp;
+  <img src="https://skillicons.dev/icons?i=go" height="20"/> Golang &nbsp;
+  🌀 Gin &nbsp;
+  <img src="https://skillicons.dev/icons?i=postgres" height="20"/> PostgreSQL &nbsp;
+  <img src="https://skillicons.dev/icons?i=firebase" height="20"/> Firebase &nbsp;
+  <img src="https://skillicons.dev/icons?i=mongodb" height="20"/> MongoDB &nbsp;
+  <img src="https://skillicons.dev/icons?i=redis" height="20"/> Redis &nbsp;
+  ☁️ Render Web Service&nbsp;
+  🔌 WebSocket &nbsp;
+  🧩 Microservice &nbsp;
+  ⚙️ PM2 &nbsp;
+  💳 TapPay &nbsp;
+  <img src="https://skillicons.dev/icons?i=jest" height="20"/> Jest &nbsp;
+  <img src="https://skillicons.dev/icons?i=aws" height="20"/> AWS &nbsp;
+  <img src="https://skillicons.dev/icons?i=gcp" height="20"/> GCP &nbsp;
+  <img src="https://skillicons.dev/icons?i=docker" height="20"/> Docker &nbsp;
+  <img src="https://skillicons.dev/icons?i=react" height="20"/> React &nbsp;
+  🎨 MUI
+</p>
 
 ---
 
-### 🎬 [Anime Library](https://github.com/kevinsuu/anime)
+## 🚀 Notable Projects
 
-Full-stack anime tracking and discovery platform with automated data synchronization.
+### 🔸 [OrderManagerSystem](https://github.com/kevinsuu/OrderManagerSystem)
+> 採用微服務架構的電子商務訂單管理平台，整合訂單、商品、金流、通知等模組。
 
-`Nuxt` · `Vue` · `Laravel` · `MySQL` · `Docker`
+### 🔸 [RecordSysten](https://github.com/kevinsuu/RecordSysten)
+> 管理水泥車清洗紀錄的桌面應用程式，支援多公司與車輛資訊管理，採用免費服務相關進行服務提供。
 
-- Google OAuth + JWT authentication
-- Automated anime metadata crawler
-- Watchlists, ratings, notes, and collections
-- Docker + GitHub Actions deployment
+### 🔸 [WORKTIME_boardcast](https://github.com/kevinsuu/WORKTIME_boardcast)
+> 工單廣播系統，結合樹莓派與多螢幕展示工廠即時資訊，提升生產透明度與工作效率。
 
----
-
-### 🏭 [WORKTIME2](https://github.com/kevinsuu/WORKTIME2)
-
-Manufacturing work-reporting platform built for real production workflows.
-
-`React` · `Node.js` · `Express` · `Docker`
-
-- Manufacturing order reporting
-- Production line tracking
-- Report generation
-- Containerized deployment
+### 🔸 [WORKTIME2](https://github.com/kevinsuu/WORKTIME2)
+> 報工系統的重構版本，使用 React.js 和 Express.js 開發，支援製令單報工、產線計時與報表匯出，並以 Docker 容器化部署。)
 
 ---
 
-## Experience
+## 📈 Experience
 
-### Backend Engineer · 資通行動科技
-`2024.05 — Present`
+### 🔹 Backend Engineer - 資通行動科技有限公司 (2024/05 - Now)
+- 建置 LINE BOT 與 TapPay 金流整合，服務多家車隊
+- 透過 Cloud Function 實現 microservice 架構
+- MongoDB 資料清除機制與 SQL 效能優化（提升 97.5%）
+- 建置 GitLab CI/CD 自動部署流程
 
-LINE Bot · TapPay · Cloud Functions · SQL Optimization · MongoDB · GitLab CI/CD
-
-### Backend Engineer · Kdan Mobile
-`2022.10 — 2024.05`
-
-Production systems · Internal platform for 200+ employees · OpenAI integration
+### 🔹 Backend Engineer - Kdan Mobile (2022/10 - 2024/05)
+- 開發與維護多項專案，從需求釐清到系統落地
+- 撰寫內部績效系統，支援 200+ 員工使用
+- 與 AI 工程師合作串接 OpenAI，打造企業資訊助理
 
 ---
 
-## Education
+## 🎓 Education
 
-**Southern Taiwan University of Science and Technology**
+**南臺科技大學**  
+M.S. in Computer Science (2021 - 2022)  
+B.S. in Computer Science (2017 - 2021)
 
-M.S. Computer Science · 2021–2022  
-B.S. Computer Science · 2017–2021
+---
+
+## 📫 Contact
+
+- 📧 Email: sjs47311@gmail.com
+- 🌐 GitHub: [kevinsuu](https://github.com/kevinsuu)
 
 ---
 
 <p align="center">
-  <strong>From idea → architecture → production.</strong>
+  Let's build the future with code 💡
 </p>
 
-<p align="center">
-  System Design · Backend · Database · Cloud · DevOps
-</p>
+這是我的github 幫我將它調整的更吸引人 點進來就會覺得這個工程師有料的部分
